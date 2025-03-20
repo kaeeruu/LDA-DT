@@ -3,7 +3,7 @@ Para este proyecto se utilizó una base de datos obtenida de [UCI Machine Learni
 
 - 'entropy_Valence' Entropía de la Valencia
 - 'entropy_atomic_radius' Entropía del Radio Atómico
-- 
+  
 Este proyecto contiene los siguientes documentos:
 
 - [Reporte en formato ipynb](A2_2_611858.ipynb)
