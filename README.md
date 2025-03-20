@@ -7,5 +7,5 @@ Para este proyecto se utilizó una base de datos obtenida de [UCI Machine Learni
 Este proyecto contiene los siguientes documentos:
 
 - [Reporte en formato ipynb](A2_2_611858.ipynb)
-- [Reporte en formato html]()
+- [Reporte en formato html](A2_2_611858.html)
 - [Base de Datos](train.csv)
